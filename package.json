@@ -55,7 +55,7 @@
     "ajv": "^6.12.6",
     "autolinker": "^3.13.0",
 
-    "vue": "^2.6.11",
+    "vue" : "^ 2.6.11" ,
 
     "vue-template-compiler" : "^ 2.6.11" ,
     "vuejs-datepicker": "^1.6.2",
